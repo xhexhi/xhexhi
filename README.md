@@ -1,6 +1,7 @@
 Hello,
 
-We have installed the xtb version 6.4.1 (afa7b- size "threshold", but encounters memory problems in the case of larger molecules. 
+We have installed the xtb version 6.4.1 (afa7bdf) in our calculation center (the binary version). 
+The code works fine up to a certain molecular size "threshold", but encounters memory problems in the case of larger molecules. 
 This happens for instance in the example of a pi-stacked dimer containing 704 atoms at all.
 Below you can find the partial submission script and the error message provided by the system. 
 
